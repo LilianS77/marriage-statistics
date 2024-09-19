@@ -1,11 +1,8 @@
 #### Preamble ####
 # Purpose: Downloads and saves the data from Open Data Toronto
-# Author: Rohan Alexander
+# Author: Xizi Sun
 # Date: 19 September 2024
-# Contact: rohan.alexander@utoronto.ca
-# License: MIT
-# Pre-requisites: None
-# Any other information needed? None
+# Contact: xizi.sun@mail.utoronto.ca
 
 
 #### Workspace setup ####
