@@ -1,8 +1,8 @@
 #### Preamble ####
 # Purpose: Simulates data
-# Author: Rohan Alexander
+# Author: Xizi Sun
 # Date: 19 September 2024
-# Contact: rohan.alexander@utoronto.ca
+# Contact: xizi.sun@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: None
 # Any other information needed? None
